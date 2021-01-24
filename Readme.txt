@@ -15,7 +15,7 @@ Bootloader : Clover 5220
 OS : Catalina 
 Work??
 QE/CI Graphics Intel HD 620
-Sleep and Shutdown
+Sleep, restart and Shutdown
 CPU Power Management
 Internal Speaker, Headphone and Internal Microphone
 Touchpad
