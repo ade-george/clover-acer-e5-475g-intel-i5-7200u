@@ -29,5 +29,4 @@ All USB Port
 Etc
 Not Work??
 Nvidia GT940MX (Nvidia Optimus is not Supported by Hackintosh)
-Restart
 Etc
