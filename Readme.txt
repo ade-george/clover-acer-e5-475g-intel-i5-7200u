@@ -11,8 +11,8 @@ Touchpad : ELAN ELAN1200 I2C Interface
 Boot Mode : UEFI GPT
 Screen Size : 14"
 Display Resolution : 1366 x 768
-Bootloader : OpenCore 0.6.4
-OS : macOS Big Sur 
+Bootloader : Clover 5220
+OS : Catalina 
 Work??
 QE/CI Graphics Intel HD 620
 Sleep and Shutdown
